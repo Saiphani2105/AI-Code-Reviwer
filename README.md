@@ -44,7 +44,8 @@ streamlit run app.py
 
 ## 🌍 Live Demo
 Check out the live version of the application here:
-[AI Code Reviewer Webpage]([https://your-deployment-link.com](https://huggingface.co/spaces/Phaneendrabayi/AI_Code_Reviewer/blob/main/app.py))
+
+[AI Code Reviewer Webpage](https://huggingface.co/spaces/Phaneendrabayi/AI_Code_Reviewer/blob/main/app.py)
 
 ## ⚠️ Important Notes
 - Ensure that your API key is valid and has the necessary permissions.
